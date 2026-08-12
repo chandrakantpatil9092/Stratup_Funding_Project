@@ -23,3 +23,6 @@ The main objective is to transform raw startup funding data into meaningful insi
 <img width="1920" height="1020" alt="Screenshot 2026-08-12 151426" src="https://github.com/user-attachments/assets/8b428ba7-d15a-4464-aa22-07102342a7ba" />
 
 <img width="1920" height="1020" alt="Screenshot 2026-08-12 151453" src="https://github.com/user-attachments/assets/a4cba78b-6607-48de-83f2-601b8bdde05f" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-08-12 151554" src="https://github.com/user-attachments/assets/fc92d8fa-b47a-4203-acef-e72dd7625bac" />
+
