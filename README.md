@@ -19,3 +19,5 @@ This project analyzes startup funding data to identify investment trends, fundin
 ### Project Objective
 
 The main objective is to transform raw startup funding data into meaningful insights that can help understand the startup ecosystem, investment patterns, and funding trends.
+
+![Uploading Screenshot 2026-08-12 151426.png…]()
